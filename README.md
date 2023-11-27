@@ -1,4 +1,4 @@
-Hi 👋👋 I'm Avreymi Asraf, a computer science student at the Hebrew University. I'm fascinated by data science, technological education, and the delicate art of keeping our robotic overlords appeased.
+Hi 👋👋 I'm Avraham Asraf, a computer science student at the Hebrew University. I'm fascinated by data science, technological education, and the delicate art of keeping our robotic overlords appeased.
 
 
 [![alt text][image]][hyperlink], [![alt text][imageT]][hyperlinkT]
